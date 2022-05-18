@@ -1,0 +1,12 @@
+.bottom{
+    width: 1024px;
+    height: 156px;
+    background-color: #1C1A1A;
+    margin-top: -30px;	
+}
+.bottom p{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 60px;
+	color: aliceblue;
+}

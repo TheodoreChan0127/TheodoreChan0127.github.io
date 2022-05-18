@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<link href="../css/head.css" rel="stylesheet">
+<link href="../css/bottom.css" rel="stylesheet">
+<link href="../css/main.css" rel="stylesheet">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	
+<div class="head">
+<img src="../images/微信图片_20220511153737.jpg" alt="Me">
+<p>Theodore Chan</p>
+</div>
+	
+<!-- TemplateBeginEditable name="Main" -->
+	
+<div class="main">
+  <div class="first"></div>
+<div class="second"></div>
+<div class="third"></div>
+<div class="fourth"></div>
+</div>	
+	
+	
+	
+	
+	
+<!-- TemplateEndEditable -->
+	
+	
+<div class="bottom">
+<p>This is Theodore's Site</p>
+</div>	
+	
+	
+</body>
+</html>

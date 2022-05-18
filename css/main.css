@@ -1,0 +1,96 @@
+/* CSS Document */
+.main .first{
+	width: 1024px;
+	height:256px;
+	background-color:#c1cbd7;
+}
+.main .second{
+	width: 1024px;
+	height:256px;
+	background-color:#afb0b2;
+}
+.main .third{
+	width: 1024px;
+	height:256px;
+	background-color:#939391;
+}
+.main .fourth{
+	width: 1024px;
+	height:256px;
+	background-color:#bfbfbf;
+}
+.main .text{
+	
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 60px;
+	position: relative;
+	top: 90px;
+	left: 350px;
+}
+.main .text:hover{
+	color: bisque;
+}
+.main #fir-t{
+    margin: auto;
+    text-align: center;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    color: #0C8ED0;
+}
+.main #sec-t{
+    margin: auto;
+    text-align: center;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    color:#494949;
+}
+.main #thir-t{
+    margin: auto;
+    text-align: center;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    color:antiquewhite;
+}
+.main #fou-t{
+    position: relative;
+	top:90px;
+	left:-40px;
+    text-align: center;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    color:antiquewhite;
+	font-size: 50px;
+}
+.main #photo{
+    border-radius: 10px;
+    margin-right: 73px;
+    margin-left: 10px;
+	position: relative;
+	left: 44px;
+	top:30px
+}
+.main #love-pic{
+    height: 230px;
+    border-radius: 15px;
+    float: left;
+    position: relative;
+    top: 10px;
+}
+.main #int-pic{
+    height: 200px;
+    position: relative;
+    border-radius: 20px;
+    left: 362px;
+    top: 10px;
+}
+.main #int-tex{
+	text-align: center;
+	position: relative;
+	top: 15px;
+	color:floralwhite
+}
+.main #int-tex a{
+	text-decoration: none; 
+	color:ivory
+}
+.main #int-tex a:hover{
+	color: dimgray;
+}

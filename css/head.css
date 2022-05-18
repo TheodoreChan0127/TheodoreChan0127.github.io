@@ -1,0 +1,27 @@
+/* CSS Document */
+body{
+	width: 1200px;
+	height: 1200px;
+	background-color:#3F3D3D;
+	margin:0 auto;
+}
+.head{
+	width: 1024px;
+	height:256px;
+	background-color:#1C1A1A;
+}
+.head img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    margin-right: 400px;
+    margin-left: 440px;
+    margin-top: 20px;
+}
+.head p{
+	text-align: center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	color:aliceblue;
+}
+
